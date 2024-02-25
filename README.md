@@ -1,6 +1,7 @@
-# Fashion MNIST Image Classification using TensorFlow/n
+# Fashion MNIST Image Classification using TensorFlow
 
-This repository contains code for training a neural network model using TensorFlow to classify images from the Fashion MNIST dataset. The Fashion MNIST dataset consists of grayscale images of fashion items belonging to 10 different categories.
+This repository contains code for training a neural network model using TensorFlow to classify images from the Fashion MNIST dataset.
+The Fashion MNIST dataset consists of grayscale images of fashion items belonging to 10 different categories.
 
 Prerequisites
 Make sure you have the following installed:
